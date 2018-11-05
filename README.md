@@ -11,5 +11,8 @@ Decision Tree Classifier created on Pima Indians Dataset and hyperparameter tuni
 Project3: SVM Classifier for Pima Indians Dataset
 SVM Classifier created on Pima Indians Dataset and hyperparameter tuning done using GridSearchCV to find optimal hyperparameters.Performance assessed using accuracy score and confusion matrix on the test dataset.
 
-Project4: Decision Tree Regressorsion on the Diabetes Dataset.
+Project4: Decision Tree Regression on the Diabetes Dataset.
 Decision Tree Regression done on diabetes dataset and r2 scores recored to test performance. 
+
+Project5: Model Comparison on Pima Indians Dataset.
+Different Classifiers run on the same dataset and using the same seed to assess relative performance of classifiers. The classifiers used were: Decision Tree Classifier, SVM Linear Kernel Classifier, SVM Non-Linear Classifier, Random Forest Classifier, Adaboost Classifier and xgBoost Classifier. 
