@@ -15,4 +15,4 @@ Project4: Decision Tree Regression on the Diabetes Dataset.
 Decision Tree Regression done on diabetes dataset and r2 scores recored to test performance. 
 
 Project5: Model Comparison on Pima Indians Dataset.
-Different Classifiers run on the same dataset and using the same seed to assess relative performance of classifiers. The classifiers used were: Decision Tree Classifier, SVM Linear Kernel Classifier, SVM Non-Linear Classifier, Random Forest Classifier, Adaboost Classifier and xgBoost Classifier. 
+Different Classifiers were run on the same dataset and the same seed was used to assess relative performance of classifiers. The classifiers used were: Decision Tree Classifier, SVM Linear Kernel Classifier, SVM Non-Linear Classifier, Random Forest Classifier, Adaboost Classifier and xgBoost Classifier. 
